@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arsam-kalhor&label=Profile%20Views&color=00bfff&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/arsam-kalhor">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=connections&query=%24.data.totalConnections&url=https%3A%2F%2Fbadges.corsi.dev%2Flinkedin%2Farsam-kalhor" alt="LinkedIn Badge" />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=arsam-kalhor&label=Profile%20Views&color=00bfff&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
