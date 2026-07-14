@@ -31,50 +31,45 @@
 
 ## 👋 A bit about me
 
-<!--
-  TODO: replace this paragraph with 2-3 sentences that are actually true and specific to you.
-  Example prompts to answer: What got you into frontend? What are you actively working toward
-  right now (a job, a specific skill, a certificate)? What kind of team/product excites you?
--->
 I'm a self-taught frontend developer based in Iran, currently deep in React and Next.js,
 turning what I learn into small, real, working things instead of just tutorials.
 I care about interfaces that feel obvious to use — even when the logic behind them isn't simple at all.
 Right now I'm focused on sharpening my TypeScript and building a portfolio I'm proud to show.
 
-- 🔭 Currently building **[project name]** — *(one line on what it does)*
 - 🌱 Currently learning **advanced TypeScript patterns & testing (Jest/RTL)**
 - 🎯 2026 goal: land my first frontend role / first freelance client
-- ⚡ Fun fact: *(one honest, specific line — a hobby, a habit, anything real)*
+- ⚡ Fun fact: I play football, ping pong, and volleyball, and when I'm not coding I'm probably gaming — Minecraft and Call of Duty are my usual picks.
 
 ---
 
 ## 🧱 Featured Projects
 
-<!--
-  TODO: This is the most important section. Even 2-3 small, finished projects beat
-  a long skill list. For each row: give it a real name, a live demo link (Vercel/Netlify
-  are free), and a repo link. Delete the placeholder rows once you have real ones.
--->
-
 <table>
   <tr>
     <td width="50%">
-      <h4>🗂️ Project Name</h4>
-      <p>One sentence on the problem it solves and why you built it.</p>
+      <h4>🐾 Petboo</h4>
+      <p>A CRM connecting pet shops with pet owners — working on the admin & pet shop side, covering features like vet appointment booking and more.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      </p>
+      <p>🚧 Client project — deployment in progress</p>
+      <p><sub>📱 Mobile-first UI — best viewed in a mobile viewport (use your browser's device toolbar / inspect mode if viewing on desktop)</sub></p>
+    </td>
+    <td width="50%">
+      <h4>🗂️ Unimate-frontend</h4>
+      <p>A university-focused platform, currently in early development — authentication flow is live, more features on the way.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <a href="#">🔗 Live Demo</a> · <a href="#">💻 Source Code</a>
-    </td>
-    <td width="50%">
-      <h4>🗂️ Project Name</h4>
-      <p>One sentence on the problem it solves and why you built it.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
       </p>
-      <a href="#">🔗 Live Demo</a> · <a href="#">💻 Source Code</a>
+      <a href="https://unimate-frontend-nine.vercel.app/auth/login">🔗 Live Demo</a> · 🚧 Work in progress
     </td>
   </tr>
 </table>
@@ -92,6 +87,7 @@ Right now I'm focused on sharpening my TypeScript and building a portfolio I'm p
 <p align="center">
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
 <table align="center">
@@ -109,7 +105,7 @@ Right now I'm focused on sharpening my TypeScript and building a portfolio I'm p
   </tr>
   <tr>
     <td align="center"><b>State & Forms</b></td>
-    <td align="center">Zustand · React Hook Form</td>
+    <td align="center">Zustand · React Hook Form · TanStack Query</td>
   </tr>
   <tr>
     <td align="center"><b>Tooling</b></td>
