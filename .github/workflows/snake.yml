@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: arsam-kalhor
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00BFFF&color_dots=#EBEDF0,#BDF6FF,#75ECFF,#00BFFF,#00A8CC
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00F7FF&color_dots=#161B22,#063A47,#087B8C,#00BFFF,#00F7FF
+            dist/snake-cyan.svg?color_snake=#00BFFF&color_dots=#EBEDF0,#BDF6FF,#75ECFF,#00BFFF,#00A8CC
+            dist/snake-cyan-dark.svg?color_snake=#00F7FF&color_dots=#161B22,#063A47,#087B8C,#00BFFF,#00F7FF
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v5
