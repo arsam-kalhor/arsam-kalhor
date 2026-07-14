@@ -18,8 +18,6 @@
 
 ## 👨‍💻 About Me
 
-
-
 - ⚛️ Frontend Developer focused on **React**
 - 🚀 Building modern web applications with **Next.js**
 - 🟦 Working with **JavaScript** and **TypeScript**
@@ -30,14 +28,15 @@
 - 💡 Interested in clean and maintainable code
 - 📚 Always learning and improving
 
-<br clear="right"/>
-
 ---
 
 ## 🚀 Frontend Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
+    alt="Frontend Tech Stack"
+  />
 </p>
 
 <p align="center">
@@ -56,7 +55,10 @@
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm"
+    alt="Development Tools"
+  />
 </p>
 
 ---
@@ -64,7 +66,10 @@
 ## 💻 Other Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,c"
+    alt="Other Programming Languages"
+  />
 </p>
 
 ---
@@ -91,6 +96,8 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source
@@ -109,6 +116,7 @@
 </p>
 
 ---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -149,3 +157,4 @@
 <p align="center">
   <b>⭐ Thanks for visiting my profile!</b>
 </p>
+
