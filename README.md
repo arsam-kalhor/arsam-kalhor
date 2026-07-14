@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Turning+Ideas+Into+Interactive+Interfaces"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=1050&lines=I+Build+The+Part+Users+Remember;Engineering+Modern+Web+Experiences;Turning+Complexity+Into+Clarity;Built+With+React+%26+TypeScript"
     alt="Typing SVG"
   />
 </p>
@@ -18,12 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img
-  align="right"
-  alt="Coding"
-  width="380"
-  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-/>
+
 
 - ⚛️ Frontend Developer focused on **React**
 - 🚀 Building modern web applications with **Next.js**
@@ -50,7 +45,6 @@
     src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"
     alt="Zustand"
   />
-
   <img
     src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"
     alt="React Hook Form"
@@ -97,6 +91,24 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/arsam-kalhor/arsam-kalhor/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/arsam-kalhor/arsam-kalhor/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/arsam-kalhor/arsam-kalhor/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
 ## 🤝 Let's Connect
 
 <p align="center">
