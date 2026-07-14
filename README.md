@@ -69,7 +69,7 @@ Right now I'm focused on sharpening my TypeScript and building a portfolio I'm p
         <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
         <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
       </p>
-      <a href="https://unimate-frontend-nine.vercel.app/auth/login">🔗 Live Demo</a> · 🚧 Work in progress
+      <a href="https://unimate-frontend-nine.vercel.app">🔗 Live Demo</a> · 🚧 Work in progress
     </td>
   </tr>
 </table>
