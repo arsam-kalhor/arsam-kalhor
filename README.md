@@ -20,16 +20,17 @@
 
 I'm a **Frontend Developer** focused on building modern, scalable, and user-centered web experiences.
 
-I enjoy turning complex ideas into clean, intuitive interfaces with a strong focus on **performance**, **maintainability**, and **user experience**.
+I enjoy turning complex ideas into interfaces that feel **simple, fast, and intuitive** — combining clean architecture, thoughtful design, and maintainable code.
 
-- ⚛️ Building interactive applications with **React**
-- 🚀 Developing modern web experiences with **Next.js**
-- 🟦 Writing reliable and maintainable code with **TypeScript**
-- 🎨 Creating responsive interfaces with **Tailwind CSS**
-- 🧠 Managing application state with **Zustand**
-- 📝 Building scalable forms with **React Hook Form**
-- ✨ Focused on clean architecture and thoughtful user experiences
-- 📚 Continuously improving through building, learning, and experimentation
+* ⚛️ Building interactive and reusable interfaces with **React**
+* 🚀 Developing modern web applications with **Next.js**
+* 🟦 Writing type-safe and maintainable code with **TypeScript**
+* 🎨 Creating responsive and polished interfaces with **Tailwind CSS**
+* 🧠 Managing lightweight and scalable state with **Zustand**
+* 📝 Building reliable forms with **React Hook Form**
+* 🧩 Designing reusable components and scalable frontend architecture
+* ⚡ Focused on performance, accessibility, usability, and clean code
+* 📚 Continuously learning, experimenting, and improving my craft
 
 ---
 
@@ -55,6 +56,24 @@ I enjoy turning complex ideas into clean, intuitive interfaces with a strong foc
 
 ---
 
+## ⚡ Engineering Focus
+
+<p align="center">
+  <b>Clean Architecture</b>
+  &nbsp;•&nbsp;
+  <b>Reusable Components</b>
+  &nbsp;•&nbsp;
+  <b>Responsive Design</b>
+  &nbsp;•&nbsp;
+  <b>Performance</b>
+  &nbsp;•&nbsp;
+  <b>Accessibility</b>
+  &nbsp;•&nbsp;
+  <b>User Experience</b>
+</p>
+
+---
+
 ## 🛠️ Development Tools
 
 <p align="center">
@@ -66,17 +85,13 @@ I enjoy turning complex ideas into clean, intuitive interfaces with a strong foc
 
 ---
 
-## 💡 Beyond Frontend
+## 🧩 Additional Languages
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=java,python,c"
     alt="Additional Programming Languages"
   />
-</p>
-
-<p align="center">
-  I also explore other programming languages to strengthen my understanding of software development and problem-solving.
 </p>
 
 ---
@@ -87,17 +102,6 @@ I enjoy turning complex ideas into clean, intuitive interfaces with a strong foc
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsam-kalhor&theme=tokyonight"
     alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsam-kalhor&theme=tokyonight"
-    alt="Top Languages by Repository"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsam-kalhor&theme=tokyonight"
-    alt="Top Languages by Commit"
   />
 </p>
 
@@ -138,7 +142,7 @@ I enjoy turning complex ideas into clean, intuitive interfaces with a strong foc
 ## 🤝 Let's Connect
 
 <p align="center">
-  Open to collaboration, interesting projects, and connecting with fellow developers.
+  Open to collaboration, meaningful projects, and connecting with developers who care about building great products.
 </p>
 
 <p align="center">
@@ -167,7 +171,7 @@ I enjoy turning complex ideas into clean, intuitive interfaces with a strong foc
 <br>
 
 <p align="center">
-  <i>Building thoughtful interfaces, one component at a time.</i>
+  <i>Engineering interfaces that feel simple, even when the logic behind them isn't.</i>
 </p>
 
 ---
@@ -175,4 +179,3 @@ I enjoy turning complex ideas into clean, intuitive interfaces with a strong foc
 <p align="center">
   <b>⭐ Thanks for visiting my profile!</b>
 </p>
-
