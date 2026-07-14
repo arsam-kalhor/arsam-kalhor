@@ -18,15 +18,18 @@
 
 ## 👨‍💻 About Me
 
-- ⚛️ Frontend Developer focused on **React**
-- 🚀 Building modern web applications with **Next.js**
-- 🟦 Working with **JavaScript** and **TypeScript**
+I'm a **Frontend Developer** focused on building modern, scalable, and user-centered web experiences.
+
+I enjoy turning complex ideas into clean, intuitive interfaces with a strong focus on **performance**, **maintainability**, and **user experience**.
+
+- ⚛️ Building interactive applications with **React**
+- 🚀 Developing modern web experiences with **Next.js**
+- 🟦 Writing reliable and maintainable code with **TypeScript**
 - 🎨 Creating responsive interfaces with **Tailwind CSS**
 - 🧠 Managing application state with **Zustand**
-- 📝 Building efficient forms with **React Hook Form**
-- 🔧 Using **Git & GitHub**
-- 💡 Interested in clean and maintainable code
-- 📚 Always learning and improving
+- 📝 Building scalable forms with **React Hook Form**
+- ✨ Focused on clean architecture and thoughtful user experiences
+- 📚 Continuously improving through building, learning, and experimentation
 
 ---
 
@@ -52,29 +55,33 @@
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Development Tools
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm"
+    src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,linux"
     alt="Development Tools"
   />
 </p>
 
 ---
 
-## 💻 Other Programming Languages
+## 💡 Beyond Frontend
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=java,python,c"
-    alt="Other Programming Languages"
+    alt="Additional Programming Languages"
   />
+</p>
+
+<p align="center">
+  I also explore other programming languages to strengthen my understanding of software development and problem-solving.
 </p>
 
 ---
 
-## 📊 GitHub Profile Summary
+## 📊 GitHub Overview
 
 <p align="center">
   <img
@@ -83,9 +90,20 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsam-kalhor&theme=tokyonight"
+    alt="Top Languages by Repository"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsam-kalhor&theme=tokyonight"
+    alt="Top Languages by Commit"
+  />
+</p>
+
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -120,7 +138,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  I'm always open to connecting, collaborating, and discussing new ideas.
+  Open to collaboration, interesting projects, and connecting with fellow developers.
 </p>
 
 <p align="center">
@@ -149,7 +167,7 @@
 <br>
 
 <p align="center">
-  <i>💬 Feel free to reach out — I'm always happy to connect with fellow developers!</i>
+  <i>Building thoughtful interfaces, one component at a time.</i>
 </p>
 
 ---
