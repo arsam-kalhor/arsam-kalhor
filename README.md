@@ -31,10 +31,7 @@
 
 ## 👋 A bit about me
 
-I'm a self-taught frontend developer based in Iran, currently deep in React and Next.js,
-turning what I learn into small, real, working things instead of just tutorials.
-I care about interfaces that feel obvious to use — even when the logic behind them isn't simple at all.
-Right now I'm focused on sharpening my TypeScript and building a portfolio I'm proud to show.
+I'm a Computer Engineering student and self-taught frontend developer based in Iran, focused on React, TypeScript, and Next.js. I turn what I learn into real projects rather than limiting myself to tutorials. I care about interfaces that just make sense, even when the logic behind them is complex. Right now, I'm sharpening my TypeScript skills and building a portfolio I'm proud to show.
 
 - 🌱 Currently learning **advanced TypeScript patterns & testing (Jest/RTL)**
 - 🎯 2026 goal: land my first frontend role / first freelance client
